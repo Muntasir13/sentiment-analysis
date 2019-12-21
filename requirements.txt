@@ -6,7 +6,7 @@ get==2018.11.19
 itsdangerous==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
-nltk==3.4
+nltk==3.4.5
 numpy==1.15.4
 post==2018.11.20
 public==2018.11.20
